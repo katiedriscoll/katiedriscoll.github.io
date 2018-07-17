@@ -11,21 +11,8 @@ h1 {
 h2 { font-size: 28px;
     color: #5085A5;
     }
-    
-h3 { 
-    font-size: 65px;
-    font-style: italic;
-    color: #red;
-    }
 
-h4 { 
-    font-size: 65px;
-    font-style: italic;
-    color: #5085A5;
-    }
-    
-h5 { font-size: 16px;
-    color: #687864; 
-  }
-    
-h5 { font-size: 12px;}
+h3 {
+  color: #31708E;
+  font-size: 28px;
+ }
