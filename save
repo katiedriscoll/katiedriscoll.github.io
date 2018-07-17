@@ -1,0 +1,18 @@
+#687864 - tan blue
+#31708E - dark blue
+#5085A5 - medium blue
+#8FC1E3 - light blue
+#F7F9FB - white
+
+#5D5C61 - dark gray
+#379683 - light gray
+#7395AE - light blue
+#557A95 - dark blue
+#B1A296 - tan
+
+h1 { font-size: 24px;}
+h2 { font-size: 22px;}
+h3 { font-size: 18px;}
+h4 { font-size: 16px;}
+h5 { font-size: 12px;}
+h6 { font-size: 10px;}
