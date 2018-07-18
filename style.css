@@ -21,3 +21,8 @@ h3 {
 ul {
   font-size: 12px;
 }
+
+body {
+   background-image: url("paper.gif");
+   background-color: #cccccc;
+}
