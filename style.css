@@ -33,6 +33,7 @@ header {
 footer {
   font-size: 12px;
   padding: 20px 0;
+   list-style: Center;
 }
 
 footer .col-sm-8 {
