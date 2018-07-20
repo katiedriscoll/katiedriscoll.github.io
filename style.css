@@ -36,7 +36,7 @@ footer {
    list-style: Center;
 }
 
-footer .col-sm-8 {
+footer .col-sm-12 {
   display: flex;
   justify-content: flex-end;
 }
