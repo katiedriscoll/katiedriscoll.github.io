@@ -28,6 +28,7 @@ body {
 
 header {
       bgcolor: #31708E;
+  list-style: justify-right; 
 }
 
 footer {
