@@ -35,11 +35,14 @@ header {
 header .row,
 footer .row
 section .row
-nav.col-sm-8 {
+ {
   display: flex;
 
 }
 
+nav.col-sm-8 {
+  justify content: flex-end;
+}
   
 
 
