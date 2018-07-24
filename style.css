@@ -32,10 +32,13 @@ header {
 }
 
 header .row,
-footer .row {
+footer .row
+section .row {
   display: flex;
 
 }
+
+  
 
 
 footer .col-sm-12 {
