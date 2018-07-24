@@ -54,18 +54,18 @@ footer .col-sm-12 {
 }
 
 a: link {
-    color: white;
+    color: #8FC1E3;
 }
 
 
 /* visited link */
 a:visited {
-    color: white;
+    color: #8FC1E3;
 }
 
 /* mouse over link */
 a:hover {
-    color: #8FC1E3;
+    color: white;
 }
 
 /* selected link */
