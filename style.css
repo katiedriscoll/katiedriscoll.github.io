@@ -33,6 +33,11 @@ header {
 }
 
 
+footer .row
+section .row
+ {
+  display: flex;
+
 
 }
 
