@@ -60,14 +60,14 @@ a: link {
 
 /* visited link */
 a:visited {
-    color: #8FC1E3;
+    color: white;
 }
 
 /* mouse over link */
 a:hover {
-    color: white;
+    color: #8FC1E3;
 }
 
 /* selected link */
 a:active {
-    color: ##31708E;
+    color: #31708E;
