@@ -34,11 +34,11 @@ header {
 header .row,
 footer .row {
   display: flex;
-  align-items: center;
+
 }
 
 
-footer .col-sm-4 {
+footer .col-sm-12 {
   display: flex;
   justify-content: flex-end;
   font-size: 14px;
