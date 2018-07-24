@@ -40,7 +40,7 @@ section .row
 
 }
 
-nav .col-sm-8 {
+nav .col-sm-6 {
   justify content: right;
   display: flex;
 }
