@@ -26,10 +26,14 @@ body {
    font-family: Lora;
 }
 
-header .col-sm-4 {
-      bgcolor: #31708E;
-  list-style: right; 
-  padding-top: 20px;
+header {
+  padding: 20px 0;
+}
+
+header .row,
+footer .row {
+  display: flex;
+  align-items: center;
 }
 
 #footer {
