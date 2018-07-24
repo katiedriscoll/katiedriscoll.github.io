@@ -32,11 +32,7 @@ header {
     Background: #687864;
 }
 
-header .row,
-footer .row
-section .row
- {
-  display: flex;
+
 
 }
 
