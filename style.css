@@ -28,6 +28,7 @@ body {
 
 header {
   padding: 20px 0;
+    Background: red;
 }
 
 header .row,
@@ -36,12 +37,6 @@ footer .row {
   align-items: center;
 }
 
-#footer {
-  font-size: 12px;
-  Background: red;
-  padding: 50px ;
-   list-style: Center;
-}
 
 footer .col-sm-4 {
   display: flex;
