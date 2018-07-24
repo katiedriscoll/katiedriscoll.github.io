@@ -45,6 +45,7 @@ footer .col-sm-4 {
    bgcolor: blue;
 }
 
-footer ul {
-  list-style: none;
+footer .row {
+  list-style: center
+    background: red;
 }
