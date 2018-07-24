@@ -39,9 +39,10 @@ body {
    list-style: Center;
 }
 
-footer .col-sm-12 {
+footer .col-sm-4 {
   display: flex;
   justify-content: flex-end;
+  font-size: 56px;
 }
 
 footer ul {
