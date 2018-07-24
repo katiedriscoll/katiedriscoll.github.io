@@ -43,7 +43,7 @@ footer .col-sm-4 {
   display: flex;
   justify-content: flex-end;
   font-size: 56px;
-  Background: red;
+   bgcolor: #31708E;
 }
 
 footer ul {
