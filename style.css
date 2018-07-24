@@ -29,6 +29,7 @@ body {
 #header {
       bgcolor: #31708E;
   list-style: right; 
+  padding-top: 20px;
 }
 
 #footer {
